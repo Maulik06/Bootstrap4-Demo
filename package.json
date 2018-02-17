@@ -1,0 +1,24 @@
+{
+  "name": "cs554-lab2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "build": "gulp default"
+  },
+  "keywords": [],
+  "author": "MJ",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.23.6",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0",
+    "popper.js": "^1.12.9"
+  },
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "express": "^4.16.2",
+    "jquery": "^3.3.1"
+  }
+}
